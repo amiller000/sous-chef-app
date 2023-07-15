@@ -9,6 +9,7 @@ BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
 PROFILE = default
 PROJECT_NAME = sous-chef-app
 PYTHON_INTERPRETER = python3
+OPENAI_API_KEY = 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
 
 ifeq (,$(shell which conda))
 HAS_CONDA=False
