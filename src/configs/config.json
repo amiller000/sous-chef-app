@@ -1,0 +1,5 @@
+{
+    "csv_path": "/Users/alexmiller/Documents/data/recipes/dataset/full_dataset.csv",
+    "vector_db_path": "/Users/alexmiller/Documents/data/recipes/faiss/recipe_embeddings",
+    "embedding_model": "text-embedding-ada-002"
+}
